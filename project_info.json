@@ -1,0 +1,11 @@
+{
+    "name": "tf",
+    "user": "kiran",
+    "version": "1",
+    "License": "MIT",
+    "venv_required": "y",
+    "directory": "C:\\Users\\KIRAN\\Environment\\tf",
+    "groq_usage": "n",
+    "ollama_usage": "y",
+    "git_login": "y"
+}

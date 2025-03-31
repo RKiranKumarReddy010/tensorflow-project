@@ -1,0 +1,4 @@
+{
+    "prompt": "write code for pandasmy project location is C:\\Users\\KIRAN\\Environment\\tf. If you save anything save here. If loaction required, then :Use full location, if you want to store anything. If not required : No need to use",
+    "response": "import pandas as pd\ndf = pd.DataFrame({\n    'Name': ['Tom', 'Nick', 'John'],\n    'Age': [20, 21, 19]\n})\nprint(df)"
+}
